@@ -14,4 +14,4 @@ exact opposite decision[8] support a distributed, BitKeeper-like workflow[8] ver
  branches was done on 18 April.[16] Torvalds achieved his performance goals; on 29 April, the nascent Git was benchmarked recording patches to the
   Linux kernel tree at the rate of 6.7 per second.[17] On 16 June Git managed the kernel 2.6.12 release.[18] Torvalds turned over maintenance on 
 26 July 2005 to Junio Hamano, a major contributor to the project.[19] Hamano was responsible for the 1.0 release on 21 December 2005, and remains
- the project's maintainer.[20]
+ the project's maintainer.
